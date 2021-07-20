@@ -455,5 +455,5 @@ $RECYCLE.BIN/
 
 appsettings.json
  
-node_modules/
+client/node_modules/
  
