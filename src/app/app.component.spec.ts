@@ -20,6 +20,8 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
+  //comment
+
   it(`should have as title 'client'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
